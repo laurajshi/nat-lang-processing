@@ -3,6 +3,7 @@
 !**.java
 !**.txt
 !**.json
+!**.md
 !.fatweleminus
 !.gitignore
 !library-fa20
