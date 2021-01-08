@@ -5,6 +5,7 @@
 !**.txt
 !**.json
 !**.md
+!**.ipynb
 !.fatweleminus
 !.gitignore
 !library-fa20
