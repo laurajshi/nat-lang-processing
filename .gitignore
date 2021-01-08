@@ -1,4 +1,5 @@
 *
+
 !*/
 !**.java
 !**.py
@@ -9,7 +10,7 @@
 !.fatweleminus
 !.gitignore
 !library-fa20
-!foods.csv
+.ipynb_checkpoints
 *.class
 *.log
 *.ctxt
