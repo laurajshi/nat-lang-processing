@@ -1,5 +1,4 @@
 *
-
 !*/
 !**.java
 !**.py
@@ -10,6 +9,7 @@
 !.fatweleminus
 !.gitignore
 !library-fa20
+*/.ipynb_checkpoints/*.ipynb
 .ipynb_checkpoints
 *.class
 *.log
