@@ -1,5 +1,5 @@
 # Natural Language Toolkit: code_stemmer_indexing
-
+import nltk
 class IndexedText(object):
 
     def __init__(self, stemmer, text):
